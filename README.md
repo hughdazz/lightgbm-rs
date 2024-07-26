@@ -1,6 +1,9 @@
 # lightgbm-rs
 LightGBM Rust binding
 
+# Note
+ 
+This repository has undergone some modifications to be compatible with the latest versions of the compiler and related libraries.
 
 # Require
 
